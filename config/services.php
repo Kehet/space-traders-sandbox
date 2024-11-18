@@ -35,4 +35,9 @@ return [
         ],
     ],
 
+    'space_traders' => [
+        'base_url' => env('SPACE_TRADERS_BASE_URL'),
+        'token' => env('SPACE_TRADERS_TOKEN'),
+    ],
+
 ];
